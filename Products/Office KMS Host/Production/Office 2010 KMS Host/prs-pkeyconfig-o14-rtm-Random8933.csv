@@ -1,0 +1,3 @@
+﻿"ActConfigID","RefGroupID","AlgorithmId","EditionID","ProductDescription","ProductKeyType","IsRandomized","PartNumber","EULAType","IsValid","Start","End","Total Keys"
+"{BFE7A195-4F8F-4F0B-A622-CF13C7D16864}","96","msft:rm/algorithm/pkey/2005","ProPlusVL","RTM_ProPlus_KMS_Host","Volume:CSVLK","FALSE","X16-08039","ltKMSHost","true","199000000","217999999","19000000"
+"","","","","","","","","","","","[SUBTOTAL]","19000000"
