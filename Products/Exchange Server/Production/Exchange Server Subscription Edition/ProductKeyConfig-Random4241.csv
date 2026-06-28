@@ -1,0 +1,7 @@
+﻿"ActConfigID","RefGroupID","AlgorithmId","EditionID","ProductDescription","ProductKeyType","IsRandomized","PartNumber","EULAType","IsValid","Start","End","Total Keys"
+"{7e9e21c5-d823-4de8-983b-b6bff0b507f3}","4336","msft:rm/algorithm/pkey/2009","Enterprise","Exchange Server 2019 RTM Enterprise Retail","Retail","FALSE","X21-84829","Retail","true","0","998999999","999000000"
+"","","","","","","","","","","","[SUBTOTAL]","999000000"
+"{9c4831b0-26cd-4ad0-9ab1-7cb11f1c7a38}","4337","msft:rm/algorithm/pkey/2009","Standard","Exchange Server 2019 RTM Standard Retail","Retail","FALSE","X21-84830","Retail","true","0","998999999","999000000"
+"","","","","","","","","","","","[SUBTOTAL]","999000000"
+"{e69e266c-f2dc-4b56-af20-c8a168e5c71d}","4832","msft:rm/algorithm/pkey/2009","Hybrid","Exchange Server 2019 RTM Hybrid Retail","Retail","FALSE","X23-06283","Retail","true","0","998999999","999000000"
+"","","","","","","","","","","","[SUBTOTAL]","999000000"
