@@ -1,0 +1,5 @@
+﻿"ActConfigID","RefGroupID","AlgorithmId","EditionID","ProductDescription","ProductKeyType","IsRandomized","PartNumber","EULAType","IsValid","Start","End","Total Keys"
+"{375189a6-8eeb-4ae8-8b5a-4c3889e70bc0}","140","msft:rm/algorithm/pkey/2005","Eval Toolkit","ProdKey3 Windows Embd Std Toolkit 7 EMB 00140 DLA/Bypass Eval Retail OEM","Retail","FALSE","X16-84078","Retail","true","169250592","169250606","15"
+"","","","","","","","","","","","[SUBTOTAL]","15"
+"{88f91837-c86f-45e4-a955-2dcb663cef98}","140","msft:rm/algorithm/pkey/2005","Toolkit","ProdKey3 Windows Embd Std Toolkit 7 EMB 00140 DLA/Bypass Retail OEM","Retail","FALSE","X16-84077","Retail","true","553950000","553999999","50000"
+"","","","","","","","","","","","[SUBTOTAL]","50000"

@@ -1,0 +1,5 @@
+﻿"ActConfigID","RefGroupID","AlgorithmId","EditionID","ProductDescription","ProductKeyType","IsRandomized","PartNumber","EULAType","IsValid","Start","End","Total Keys"
+"{6cd32042-49da-4634-bd02-448fbe76bfbe}","140","msft:rm/algorithm/pkey/2005","Toolkit","PK3 Windows Embedded Standard 8 00140 DLA/Bypass Retail Toolkit","Retail","FALSE","X18-48707","Retail","true","532950000","532999999","50000"
+"","","","","","","","","","","","[SUBTOTAL]","50000"
+"{ee44a7bd-a8d8-45bd-9362-9fc683c0a1c6}","140","msft:rm/algorithm/pkey/2005","Eval Toolkit","PK3 Windows Embedded Standard 8 00140 DLA/Bypass Retail:TB:Eval Toolkit","Retail","FALSE","X18-48708","Retail","true","169250850","169250864","15"
+"","","","","","","","","","","","[SUBTOTAL]","15"
