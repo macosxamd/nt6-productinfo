@@ -1,0 +1,3 @@
+﻿"ActConfigID","RefGroupID","AlgorithmId","EditionID","ProductDescription","ProductKeyType","IsRandomized","PartNumber","EULAType","IsValid","Start","End","Total Keys"
+"{732e566d-b3fa-4ff1-8fb3-694f1a0b83ec}","140","msft:rm/algorithm/pkey/2005","Volume License","AutoRoute 2010 VL","Volume:GVLK","FALSE","X15-62120","Volume","true","532200214","532200215","2"
+"","","","","","","","","","","","[SUBTOTAL]","2"

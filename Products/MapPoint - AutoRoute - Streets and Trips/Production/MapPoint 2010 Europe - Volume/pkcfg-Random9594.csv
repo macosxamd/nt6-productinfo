@@ -1,0 +1,3 @@
+﻿"ActConfigID","RefGroupID","AlgorithmId","EditionID","ProductDescription","ProductKeyType","IsRandomized","PartNumber","EULAType","IsValid","Start","End","Total Keys"
+"{4d994f6f-a9d1-408f-85e5-07eef8fdd4ae}","140","msft:rm/algorithm/pkey/2005","Volume License","MapPoint EU 2010 VL","Volume:GVLK","FALSE","X15-52130","Volume","true","315442188","315442189","2"
+"","","","","","","","","","","","[SUBTOTAL]","2"
